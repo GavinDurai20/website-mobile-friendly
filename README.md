@@ -24,7 +24,6 @@ This project is a fully responsive, mobile-first website built using **HTML** an
 
 ---
 
----
 
 ## 📱 Responsive Behavior
 
